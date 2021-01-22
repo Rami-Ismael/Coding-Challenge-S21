@@ -13,12 +13,12 @@ Chapter 17
 
 First create a seq object that will have a Genome.gb file in
 
-I will create a diagram that is track to see what it look like
+I will create a diagram that is track to see what it looks like
 
 All the feature in the SeqObject will SeqRecord object in the class
-    I have to iterate through all the SeqRecord that are gene
-        add each feature to the diagram
-        iterate  through two different color
-write the diagram  in circular form  to a
+1.I have to iterate through all the SeqRecord that are gene
+2.add each feature to the diagram
+3.iterate  through two different color
+4.write the diagram  in circular form  to a
 
 
