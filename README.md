@@ -19,7 +19,7 @@ All the feature in the SeqObject will SeqRecord object in the class
 1.I have to iterate through all the SeqRecord that are gene
 2.add each feature to the diagram
 3.iterate  through two different color
-4.write the diagram  in circular form  to a
+4.write the diagram  in circular form 
 
 The Creator of the python library is  Peter J. A. Cock, Tiago Antao, Jeffrey T. Chang, Brad A. Chapman, Cymon J. Cox, Andrew Dalke, Iddo Friedberg, Thomas Hamelryck, Frank Kauff, Bartek Wilczynski, Michiel J. L. de Hoon
 
